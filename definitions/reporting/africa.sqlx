@@ -1,0 +1,12 @@
+config {
+    type: "table",
+    tags: ["test"],
+    schema: "IRS_dataset"
+}
+
+SELECT
+  *
+FROM
+  ${ref('countries')}
+WHERE
+  continent = 'Africa'

@@ -1,0 +1,5 @@
+config { 
+  type: "declaration",
+  schema: "IRS_dataset",
+  name: "countries"
+}
