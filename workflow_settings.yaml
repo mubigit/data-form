@@ -1,0 +1,5 @@
+defaultProject: production-227512
+defaultLocation: EU
+defaultDataset: dataform
+defaultAssertionDataset: dataform_assertions
+dataformCoreVersion: 3.0.0-beta.4
